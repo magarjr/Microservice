@@ -1,0 +1,18 @@
+{
+  "producers": [
+    {
+      "Name": "Urban & Community Beekeeping",
+      "Address": "6 Clarion House, London W1F 0BA",
+      "Postcode": "W1F 0BA",
+      "Easting": 529604,
+      "Northing": 181145
+    },
+    {
+      "Name": "Brockley Bees",
+      "Address": "Harefield Road, Brockley, SE4 1LU",
+      "Postcode": "SE4 1LU",
+      "Easting": 536890,
+      "Northing": 175704
+    }
+  ]
+}
